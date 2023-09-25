@@ -1,0 +1,37 @@
+body{
+    font-family: 'Gill Sans';
+    background-color: blanchedalmond;
+    color: black;
+}
+
+nav ul{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    list-style: none;
+    padding: 50px;
+    margin: 50px;
+    
+}
+nav ul li a{
+    text-decoration: none;
+    color: white;
+}
+    
+
+
+P{
+    font-family: 'Franklin Gothic Medium';
+}
+.Article{
+    font-family: 'Times New Roman';
+    background-color: aqua;
+    color: black;
+    outline-color: blanchedalmond;
+}
+
+.location{
+    font-family: 'Lucida Sans';
+    background-color: crimson;
+    color: black;
+}
